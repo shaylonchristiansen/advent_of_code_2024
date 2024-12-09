@@ -1,0 +1,15 @@
+#Virtual env dir
+venv/
+
+#Pyton caches
+__pycache__/
+*.pyc
+
+#Personal enviroment
+.env
+
+#Mac metadata
+.DS_Store
+
+#VSCode
+.vscode/
